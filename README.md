@@ -1,1 +1,1 @@
-This my my first Git project! Exciting!
+This my my first Git project! Exciting! Isnt it?
